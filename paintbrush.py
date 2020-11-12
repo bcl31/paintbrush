@@ -1,3 +1,6 @@
+# this is a simple paint software, the user controls a paintbrush using the arrow keys, leaving a trail in the window
+# of a specified color chosen from blue, green, red, yellow, and black
+
 import pygame
 
 
